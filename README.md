@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create
+Desktop View
+![Screenshot from 2019-05-04 04-40-43](https://user-images.githubusercontent.com/33095673/57170114-3648d200-6e28-11e9-8268-b3af6d9fb637.png)
+
+
 Mobile View
 ![Screenshot from 2019-05-04 04-44-08](https://user-images.githubusercontent.com/33095673/57170058-e36f1a80-6e27-11e9-8cd6-aa86b2a8e552.png)
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create
+De
+
 ## Available Scripts
 
 In the project directory, you can run:

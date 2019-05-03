@@ -1,0 +1,98 @@
+
+.app{
+  
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  /* border: 5px solid red; */
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 10s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.myrow{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.mycard{
+  width: 30rem;
+  height: 45vh;
+  border: 3px solid red;
+  border-radius: 40px;
+ 
+}
+body{
+  background:url('../src/pc.png');
+ 
+}
+.myrow2{
+  padding:15%; 
+}
+
+.button{
+  background-color:rgb(255, 81, 88); 
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  margin: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius:25px;
+  font-size: 18px;
+
+}
+.picker{
+  border: 1px solid brown;
+  margin-top:15px;
+ 
+}
+
+@media only screen and (max-width: 600px) {
+  img{
+    margin-bottom:8px; 
+  }
+ .button{
+   padding: 8px;
+ }
+ .myrow{
+   margin-bottom: 1px;
+ }
+}
+
+
+.start{
+  background-color:#0B6623;
+  margin-right: 6px;
+}
+
+.stop{
+  background-color: red;
+  margin-left:6px; 
+}
